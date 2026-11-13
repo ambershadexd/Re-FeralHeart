@@ -1,4 +1,4 @@
-# Re-FeralHeart
+# Re:FeralHeart
 A remake of the classic MMO "FeralHeart" inside of the Godot Engine
 
 Very unfinished at the moment!
